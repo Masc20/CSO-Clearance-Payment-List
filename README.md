@@ -58,7 +58,7 @@ You need to have Node.js and npm (or yarn/pnpm) installed on your system.
 4.  **Copy Logo Files:**
     Ensure `aclc-20logo.png` and `cso-logo.png` are present in the `public/` directory of the project. If they are in the parent directory, copy them:
     ```bash
-    # From the parent directory (e.g., C:\Users\Rhea\Documents\CSO\)
+    # From the parent directory (e.g., C:\Users\Documents\CSO\)
     copy aclc-20logo.png cso-clearance-payment-list\public\
     copy cso-logo.png cso-clearance-payment-list\public\
     ```
