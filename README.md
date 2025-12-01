@@ -1,6 +1,6 @@
 # CSO Clearance Payment List
 
-This is a lightweight, local-storage based web application designed for ACLC College of Butuan's CSO (Community Service Organization) to manage student payments for clearance. It provides a simple student-facing form for submission and an administrative dashboard for managing records and application settings.
+This is a lightweight, local-storage based web application designed for ACLC College of Mandaue's CSO (Community Service Organization) to manage student payments for clearance. It provides a simple student-facing form for submission and an administrative dashboard for managing records and application settings.
 
 ## Features
 
