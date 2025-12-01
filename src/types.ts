@@ -16,9 +16,9 @@ export interface AppSettings {
 
 export const DEFAULT_SETTINGS: AppSettings = {
   sections: [
-    "BSIT - 1A", "BSIT - 1B", "BSIT - 2A", "BSIT - 2B", 
-    "BSIT - 3A", "BSIT - 4A", 
-    "BSCS - 1A", "BSCS - 2A", "BSCS - 3A", "BSCS - 4A"
+    "BSIT - 11A", "BSIT - 21B", "BSIT - 12A", "BSIT - 22B", 
+    "BSIT - 31A", "BSIT - 41A", 
+    "BSCS - 11A", "BSCS - 21A", "BSCS - 31A", "BSCS - 41A"
   ],
   amount: 10
 };
